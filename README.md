@@ -11,5 +11,7 @@
 <p><a href="https://github.com/Jamie0115/PL/blob/main/Practice1/HW_1.ipynb">作業一(補充)</a>。</p>
 <p><a href="https://github.com/Jamie0115/PL/blob/main/HW_2/HW_2.ipynb">作業二</a>。</p>
 <p><a href="https://github.com/Jamie0115/PL/blob/main/HW_3/.ipynb_checkpoints/HW_3-checkpoint.ipynb">作業三(網路爬蟲)</a>。</p>
+<p><a href="https://github.com/Jamie0115/PL/blob/main/HW_4/HW_4.ipynb">作業四(視覺化分析)</a>。</p>
+<p><a href="https://github.com/Jamie0115/PL/blob/main/HW_5/HW_5.ipynb">作業五</a>。</p>
 
 ## 專題連結區  <br />
