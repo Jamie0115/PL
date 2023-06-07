@@ -14,4 +14,6 @@
 <p><a href="https://github.com/Jamie0115/PL/blob/main/HW_4/HW_4.ipynb">作業四(視覺化分析)</a>。</p>
 <p><a href="https://github.com/Jamie0115/PL/blob/main/HW_5/HW_5.ipynb">作業五</a>。</p>
 
-## 專題連結區  <br />
+## 專題連結區-Title:匯率與爬蟲及匯率分析  <br />
+<p><a href="專題報告-爬蟲/爬蟲(外匯).ipynb">網路爬蟲-匯率</a>。</p>
+<p><a href="專題報告-爬蟲/CSV數據分析.ipynb">CSV圖表展示-匯率分析</a>。</p>
